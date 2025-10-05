@@ -4,7 +4,6 @@ A dataset composed of images extracted from videos from YouTube and TikTok of re
 This dataset was built to be used with the YOLOv11, therefore annotation follows its format.
 
 The dataset is composed of the following videos from the web:
-Video links
 
 The Pilot Channel - Captain's view Breakoff landing Amsterdam - Boeing 747-400 - https://www.youtube.com/watch?v=KxaCvRwhh9w
 
